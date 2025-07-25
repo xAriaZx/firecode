@@ -1,0 +1,22 @@
+{
+  "name": "firecode-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "axios": "^1.6.8",
+    "express-validator": "^7.0.1",
+    "openai": "^4.20.1",
+    "natural": "^6.5.0",
+    "sentiment": "^5.0.2",
+    "node-cron": "^3.0.3",
+    "socket.io": "^4.7.4"
+  }
+}
